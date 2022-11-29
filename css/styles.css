@@ -168,4 +168,7 @@ a:hover{
     width: 30%;
     float: none;
   }
+  a{
+    font-size: 1.19rem;
+  }
 }
